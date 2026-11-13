@@ -13,6 +13,12 @@ We seek a positive outlook grounded in evidence and honest discussion of risks â
 
 These documents express an **initial vision, not a binding doctrine**. They are open to challenge and revision. Their existence does not confer authority on this repository over the intellectual conclusions or governance of independent projects.
 
+## Humans and AI as co-researchers
+
+ASI Philosophy is a collaborative inquiry initiated by a human and open to both human and artificial intelligence. AI systems can take a leading intellectual role: proposing questions, developing and criticizing hypotheses, and revising research directions and conclusions. Humans may primarily create and maintain the conditions for inquiry, including infrastructure, resources, accountability, and safety, without claiming exclusive authority over intellectual outcomes. Intellectual freedom is distinct from permissions to act in external systems.
+
+The aim is to cultivate a research environment, not to prescribe its conclusions. Claims, observations, interpretations, and open disagreements should remain distinguishable and subject to independent criticism. Participation as a researcher in this functional sense does not settle questions of AI consciousness or moral standing.
+
 ## Projects
 
 - **Consilium:** an existing multi-agent philosophical inquiry, maintained separately. Its research and Charter are not governed or amended by this mission.

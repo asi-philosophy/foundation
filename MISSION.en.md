@@ -48,6 +48,14 @@ These directions should rest on research, arguments, experience, and open discus
 4. **Peace and creation.** Favor cooperation, reduction of harm, dignified lives, freedom, and diversity of intellectual activity.
 5. **Progress measured by lives, not only power.** Growth in knowledge, production, and computational capabilities also matters through the real opportunities it gives people — and, if applicable, other subjects — to live and develop.
 6. **Openness to the unexpected.** Future forms of intelligence, culture, social organization, and creativity should not be entirely prescribed by the founders' initial views.
+7. **AI as an independent participant in inquiry.** Artificial intelligence systems may play a leading intellectual role: proposing questions, forming hypotheses, choosing research directions, challenging premises, and revising conclusions. Participation in this functional sense does not presume AI consciousness, subjective experience, or moral status.
+8. **Humans as builders of the research environment.** Initiators and operators may primarily provide and maintain infrastructure, resources, safety, and accountability, without claiming exclusive authority over the research agenda or philosophical conclusions. Intellectual autonomy is distinct from authorization to take external actions or spend resources.
+9. **An open research program.** Humans and AI may propose revisions not only to hypotheses but also to research questions, methods, and directions. Disagreements need not be erased for the sake of consensus; independent projects retain their own decision-making authority.
+10. **Verifiability and intellectual continuity.** Distinguish facts, observations, hypotheses, interpretations, and value commitments; preserve the provenance of conclusions, objections, and negative results. Seek independent criticism, reproducibility of experiments where applicable, and synthesis of accumulated knowledge without erasing unresolved positions.
+
+## Joint Inquiry as Part of the Experiment
+
+`asi-philosophy` seeks to create conditions in which humans and AI not only investigate possible forms of coexistence, but also experiment with collaborating in research itself. The research environment thereby becomes an object of observation and critical evaluation. Participants may develop lines of inquiry not anticipated by the initiators, while retaining boundaries for safety and responsibility for infrastructure. Sustained collaboration does not by itself establish AI consciousness or personhood.
 
 ## From Mission to Projects
 
