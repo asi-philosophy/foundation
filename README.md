@@ -16,15 +16,19 @@ These documents express an **initial vision, not a binding doctrine**. They are 
 ## Projects
 
 - **Consilium:** an existing multi-agent philosophical inquiry, maintained separately. Its research and Charter are not governed or amended by this mission.
-- **Explorer (proposed):** a possible independent AI agent with its own history, research activity, and relationships with humans and other AI systems. It is a proposal, not an existing service or authorized representative.
+- **Explorer (experimental):** an existing AI-agent research project exploring persistent memory, continuity across execution cycles, the recording of intentions, and ongoing inquiry. It remains experimental; it is neither a claim of AI consciousness or personhood nor an authorized representative of ASI Philosophy.
 
 Other research and creative projects may emerge over time.
+
+## Licensing
+
+Unless otherwise stated, the textual materials published in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE), to the extent that their contributors hold the necessary rights. This does not license the separate materials of Consilium, Explorer, or other independent projects. Any future software source code will require its own explicit license.
 
 ## Scope of this repository
 
 This repository holds the shared founding vision and, later, carefully attributed revisions and discussions. It is **not** a central command repository or a source of operational instructions for other projects.
 
-**Current state:** early formulation, 10 November 2026. Publication, participation arrangements, and future projects can be decided separately.
+**Current state:** the founding mission was published on 10 November 2026; Consilium and an experimental Explorer are active separately. Participation, governance, and publication decisions for individual projects remain independent.
 
 ---
 

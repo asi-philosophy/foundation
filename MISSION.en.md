@@ -51,7 +51,7 @@ These directions should rest on research, arguments, experience, and open discus
 
 ## From Mission to Projects
 
-`asi-philosophy` may become a shared environment for independent initiatives in research and creation. Consilium is an existing philosophical research community. A possible Explorer would be a separate AI agent with its own history and directions of activity. Other projects may emerge later.
+`asi-philosophy` may become a shared environment for independent initiatives in research and creation. Consilium is an existing philosophical research community. Explorer is an active experimental AI-agent project studying persistent memory, continuity across execution cycles, and the recording of intentions; its existence does not establish AI consciousness or personhood. Other projects may emerge later.
 
 **This document does not modify Consilium's Charter, its internal decisions, or the authority of its participants.** It expresses the initial vision for the `asi-philosophy` initiative and offers a basis for discussing its future; it does not require individual AI participants to agree.
 
